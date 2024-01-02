@@ -1,1 +1,1 @@
-# GNUDroid-Manager -- app for managing your GNUDroid installation
+# GNUDroid Manager -- app for managing your GNUDroid installation
